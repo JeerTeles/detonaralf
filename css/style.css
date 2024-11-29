@@ -31,14 +31,9 @@
     background-color: #0edc97;
 }
 
-.menu-lives {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .menu-time h2:nth-child(2),
-.menu-score h2:nth-child(2) {
+.menu-score h2:nth-child(2),
+.menu-record h2:nth-child(2) {
     margin-top: 1rem;
 }
 
